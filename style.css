@@ -1,0 +1,33 @@
+.jumbotron {
+  background-color: #212529;
+  color: white;
+  padding-top: 8rem;
+}
+
+.navbar button {
+  border-radius: 20px;
+}
+
+#about h2 {
+  color: #212529;
+  border-bottom: 5px solid #dc3545;
+}
+
+#services {
+  background-color: #212529;
+  color: white;
+}
+
+#contact {
+  background-color: #212529;
+  color: white;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: white;
+  color: #212529;
+}
